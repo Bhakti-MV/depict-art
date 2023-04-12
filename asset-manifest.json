@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/depict-art/static/css/main.6c7f19ff.css",
+    "main.js": "/depict-art/static/js/main.34107473.js",
+    "index.html": "/depict-art/index.html",
+    "main.6c7f19ff.css.map": "/depict-art/static/css/main.6c7f19ff.css.map",
+    "main.34107473.js.map": "/depict-art/static/js/main.34107473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7f19ff.css",
+    "static/js/main.34107473.js"
+  ]
+}
